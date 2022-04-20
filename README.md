@@ -8,9 +8,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Images
 
-![Very Weak.](/image/veryweak.png "Password Strength")
+![Very Weak.](/images/veryweak.png "Password Strength")
 
-![Strong.](/image/strong.png "Password Strength")
+![Strong.](/images/strong.png "Password Strength")
 
 ## Available Scripts
 
